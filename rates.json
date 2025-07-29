@@ -1,11 +1,22 @@
 {
-  "last_updated": "2025-07-28",
   "usd": {
-    "aden": 1485,
+    "aden": 1660,
     "sanaa": 530
   },
   "sar": {
-    "aden": 392,
+    "aden": 440,
     "sanaa": 140
+  },
+  "eur": {
+    "aden": 1750,
+    "sanaa": 560
+  },
+  "gbp": {
+    "aden": 1990,
+    "sanaa": 600
+  },
+  "aed": {
+    "aden": 450,
+    "sanaa": 142
   }
 }
